@@ -1,4 +1,4 @@
-# CuMAC-Algorithm
+# EP-CuMAC-Algorithm
 
 new_client_cumac.py - client file common to both real-time and full authentication
 
