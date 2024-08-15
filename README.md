@@ -10,6 +10,6 @@ Each of the folder contains programs for different functions performed by the EP
 5) Msg merge_retransmission - In case where all packets are lost, messages and authentication tags of lost messages are merged with those to be transmitted in the upcoming transmission and then trannsmitted
 
 File nomenclature:
-client_X.py - client file common to both real-time and full authentication
-server_X_full - server file for full authentication
-server_X_realtime - server file for realtime authentication
+1) client_X.py - client file common to both real-time and full authentication
+2) server_X_full - server file for full authentication
+3) server_X_realtime - server file for realtime authentication
